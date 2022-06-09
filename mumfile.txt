@@ -1,1 +1,2 @@
 this is my first code.
+This code is written by Singapore GIT. Keep note this.
